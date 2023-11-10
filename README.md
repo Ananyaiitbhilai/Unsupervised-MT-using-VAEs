@@ -18,7 +18,9 @@ Bonus Point (50% of the assignment marks (25 Marks)): Design an unsupervised MT 
 ## Solution
 
 
-
+### Code
+Code for the bonus question is in folder named ```code```. The ```READme.md``` file in that folder contains the instructions, evaluation and results.
 
 
 ## References
+[1] [UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY](https://openreview.net/pdf?id=HJlA0C4tPS)
