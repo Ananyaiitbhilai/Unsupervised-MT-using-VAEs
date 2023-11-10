@@ -7,7 +7,7 @@ Assignment (50 Marks) What steps would you follow to build an unsupervised machi
 
 (i) What kind of encoding will this machine translation system utilize, and why? 
 
-(ii) What kind of encoder-decoder model would be employed for this machine translation system, and why?
+(ii) What kind of encoder-decoder model would be employed for this machine translation system, and why? 
 
 (iii) What is the latent variable's expected loss value, and how will you define it? Hint: Although JS-divergence and Energy distance are both smooth functions and differentiable, KL-divergence is not.
 
