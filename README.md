@@ -25,7 +25,7 @@ Here are the steps I would follow to build an unsupervised machine translation s
 
 3. Train discrete latent variable autoencoders (e.g. VQ-VAE) separately on the source and target monolingual corpora. The discrete latent space allows for cross-domain alignment.
 
-4. Initialize the shared latent space using the continuous latent representations from step 2. Align the discrete latent representations from step 3 in this shared space using adversarial training.
+4. Initialize the shared latent space using the continuous latent representations from ```step 2```. Align the discrete latent representations from ```step 3``` in this shared space using adversarial training.
 
 5. Train a shared encoder to map source and target sentences into the aligned shared latent space.
 
