@@ -4,6 +4,7 @@ This Repo contains solutions for DS605 (Deep Learning for low-resource NLP) assi
 
 ## Assignment 
 Assignment (50 Marks) What steps would you follow to build an unsupervised machine translation system using discrete and continuous variance autoencoder models? Additionally, deal with the subsequent sub-issues:
+
 (i) What kind of encoding will this machine translation system utilize, and why? 
 
 (ii) What kind of encoder-decoder model would be employed for this machine translation system, and why?
