@@ -31,6 +31,49 @@ Here are the steps I would follow to build an unsupervised machine translation s
 
 6. Train a shared decoder to reconstruct/translate sentences from the shared latent representations.
 
+                 +---------------------+
+                 | Preprocessing       | 
+                 | Monolingual Corpora |
+                 +----------+----------+
+                            |
+                            v
+                 +---------------------+
+                 | Train Continuous    |
+                 | Latent VAEs         |
+                 | Source & Target     |
+                 +----------+----------+
+                            |
+                            v
+                 +---------------------+
+                 | Train Discrete      |
+                 | Latent VQ-VAEs       |
+                 | Source & Target     |
+                 +----------+----------+
+                            |
+                            v
+                 +---------------------+
+                 | Initialize Shared   |
+                 | Latent Space        |
+                 | Using Continuous    |
+                 | and Align Discrete  |
+                 | Representations     |
+                 +----------+----------+
+                            |
+                            v
+                 +---------------------+
+                 | Train Shared        |
+                 | Encoder             |
+                 | Source & Target     |
+                 +----------+----------+
+                            |
+                            v
+                 +---------------------+
+                 | Train Shared        |
+                 | Decoder             |
+                 | Reconstruct/        |
+                 | Translate           |
+                 +---------------------+
+
 
 ### Answer to sub-parts
 
