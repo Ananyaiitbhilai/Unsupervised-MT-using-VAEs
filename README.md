@@ -14,3 +14,11 @@ Assignment (50 Marks) What steps would you follow to build an unsupervised machi
 (iv) Most text-VAE-based models do not support standard training methods such as backpropagation. Suggest some suitable approaches for training the model.
 
 Bonus Point (50% of the assignment marks (25 Marks)): Design an unsupervised MT system that addresses the above-mentioned problems (and sub-problems) for the English-Hindi dataset. The submitted code will be evaluated based on metrics of performance (BLEU and TER).
+
+## Solution
+
+
+
+
+
+## References
