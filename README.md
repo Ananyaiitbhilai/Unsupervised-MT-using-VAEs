@@ -24,8 +24,13 @@ Code for the bonus question is in folder named ```code```. The ```READme.md``` f
 
 ## References
 [1] [UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY](https://openreview.net/pdf?id=HJlA0C4tPS)
+
 [2] [A PROBABILISTIC FORMULATION OF UNSUPERVISED TEXT STYLE TRANSFER](https://openreview.net/pdf?id=HJlA0C4tPS)
+
 [3] [Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder](https://www.tandfonline.com/doi/epdf/10.1080/08839514.2022.2031817?needAccess=true)
+
 [4] [Unsupervised Transfer Learning in Multilingual Neural Machine Translation with Cross-Lingual Word Embeddings](https://www.semanticscholar.org/paper/Unsupervised-Transfer-Learning-in-Multilingual-with-Mullov-Pham/395221cd3ff22539f261ef1fc305fa3e928fca35)
+
 [5] [Unsupervised Neural Machine Translation for English and Manipuri](https://www.semanticscholar.org/paper/Unsupervised-Neural-Machine-Translation-for-English-Singh-Singh/1c99e76a9446d311f4a70c808b7825b5f22df1a6)
+
 [6] [Variational Autoencoding Neural Operators](https://www.semanticscholar.org/paper/Variational-Autoencoding-Neural-Operators-Seidman-Kissas/296b76cfec5e19899c823ddcce5347f956d84845)
