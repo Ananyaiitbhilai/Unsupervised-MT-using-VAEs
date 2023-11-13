@@ -21,8 +21,8 @@ Bonus Point (50% of the assignment marks (25 Marks)): Design an unsupervised MT 
 ---
 
 ## Solution
-- Solution is in [this pdf of the repo][https://github.com/Ananyaiitbhilai/Unsupervised-MT-using-VAEs/blob/main/DS605_assignment1-2.pdf]
-- Code is in [this file of the repo][https://github.com/Ananyaiitbhilai/Unsupervised-MT-using-VAEs/blob/main/DS605_Bonus_Question_Vaibhav_Arora_Ananya.ipynb]
+- Solution is in [this pdf of the repo](https://github.com/Ananyaiitbhilai/Unsupervised-MT-using-VAEs/blob/main/DS605_assignment1-2.pdf)
+- Code is in [this file of the repo](https://github.com/Ananyaiitbhilai/Unsupervised-MT-using-VAEs/blob/main/DS605_Bonus_Question_Vaibhav_Arora_Ananya.ipynb)
 
 
 ## References
